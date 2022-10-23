@@ -13,6 +13,10 @@ The data set used for analysis consisted of 12 different ticker stocks and their
 
 ### Refactored Code Screenshots
 
+![Refactored VBA Code - Part 1](https://github.com/anandohrid/stock-analysis/blob/main/Resources/Refactored_Code_1.png)
+![Refactored VBA Code - Part 2](https://github.com/anandohrid/stock-analysis/blob/main/Resources/Refactored_Code_2.png)
+![Refactored VBA Code - Part 3](https://github.com/anandohrid/stock-analysis/blob/main/Resources/Refactored_Code_3.png)
+![Refactored VBA Code - Part 4](https://github.com/anandohrid/stock-analysis/blob/main/Resources/Refactored_Code_4.png)
 
 
 ## Results
@@ -24,6 +28,18 @@ The only negative performing stock in both years was TERP, with -7.2% in 2017 an
 The execution times of the refactored VBA macros compared to the original scripts differed substantially. Without the code being refactored, the execution times for both 2017 and 2018 were 1.09 and 1.05 seconds, respectively. On the other hand, after being refactored, the times to the execute the code for 2017 and 2018 were 0.20 and 0.19 seconds, respectively. Clearly, the refactored macro produced much faster results.
 
 ### VBA Code Execution Time
+
+##### 2017 All Stocks Analysis - Original Script
+![Original Execution Time for 2017](https://github.com/anandohrid/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png)
+
+##### 2018 All Stocks Analysis - Original Script
+![Original Execution Time for 2018](https://github.com/anandohrid/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png)
+
+##### 2017 All Stocks Analysis - Refactored Script
+![Refactored Execution Time for 2017](https://github.com/anandohrid/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+##### 2018 All Stocks Analysis - Refactored Script
+![Refactored Execution Time for 2018](https://github.com/anandohrid/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
